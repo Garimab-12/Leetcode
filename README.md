@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Garimab-12/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Garimab-12/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Garimab-12/Leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/Garimab-12/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Garimab-12/Leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/Garimab-12/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Garimab-12/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
