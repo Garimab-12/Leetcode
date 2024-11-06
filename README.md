@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Garimab-12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Garimab-12/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Garimab-12/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Garimab-12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/Garimab-12/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Garimab-12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Garimab-12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
