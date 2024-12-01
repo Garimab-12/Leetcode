@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Garimab-12/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Garimab-12/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Garimab-12/Leetcode/tree/master/0075-sort-colors) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Garimab-12/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Garimab-12/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Garimab-12/Leetcode/tree/master/0035-search-insert-position) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Garimab-12/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
