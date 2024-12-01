@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Garimab-12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Garimab-12/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/Garimab-12/Leetcode/tree/master/0742-to-lower-case) |
 | [2128-reverse-prefix-of-word](https://github.com/Garimab-12/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Garimab-12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
