@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Garimab-12/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Garimab-12/Leetcode/tree/master/0075-sort-colors) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garimab-12/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Garimab-12/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Garimab-12/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Garimab-12/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2128-reverse-prefix-of-word](https://github.com/Garimab-12/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Garimab-12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/Garimab-12/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Garimab-12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
