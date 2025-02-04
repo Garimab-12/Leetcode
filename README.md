@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Garimab-12/Leetcode/tree/master/0075-sort-colors) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garimab-12/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Garimab-12/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Garimab-12/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Garimab-12/Leetcode/tree/master/0001-two-sum) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Garimab-12/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/Garimab-12/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Garimab-12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Garimab-12/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
