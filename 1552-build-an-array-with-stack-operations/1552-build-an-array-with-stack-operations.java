@@ -2,18 +2,18 @@ class Solution {
     public List<String> buildArray(int[] target, int n) {
         List<String> ll=new ArrayList<>();
          List<String> operations = new ArrayList<>();
-        int num = 1, i = 0; // Start i from 0 to correctly index the target array
+        int num = 1, i = 0; 
 
         while (num <= n && i < target.length) {
-            operations.add("Push"); // Always push
+            operations.add("Push"); 
 
             if (num == target[i]) {
-                i++; // Move to the next element in target when there's a match
+                i++; 
             } else {
-                operations.add("Pop"); // If num is not in target, pop it
+                operations.add("Pop"); 
             }
 
-            num++; // Move to the next number
+            num++;
         }
 
         return operations;
