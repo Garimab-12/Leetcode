@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Garimab-12/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Garimab-12/Leetcode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Garimab-12/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0792-binary-search](https://github.com/Garimab-12/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garimab-12/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Garimab-12/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Garimab-12/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Garimab-12/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Garimab-12/Leetcode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/Garimab-12/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garimab-12/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
